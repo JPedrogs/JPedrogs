@@ -2,11 +2,11 @@
 
 # Olá, eu sou o João Pedro Góes! 👋
 
-### 📊 Encontro nos dados o que o negócio ainda não viu.
+### 🔗 Conectando a lógica do desenvolvimento de sistemas à inteligência dos dados.
 
-Sou **Analista de Dados Júnior** e estudante de **Análise e Desenvolvimento de Sistemas**. Uso **SQL** para extrair e cruzar dados, **Python e Pandas** para tratar e investigar, e **Power BI com DAX** para entregar painéis que mostram o problema, a causa e o caminho.
+Sou **Analista de Dados Júnior** e estudante de **Análise e Desenvolvimento de Sistemas**, movido por aplicar **lógica, organização e precisão** para resolver problemas reais de negócio com dados.
 
-Venho da operação, onde SLA, prioridade e prazo são cobrados todos os dias. Por isso analiso com foco em resultado: encontrar gargalos, explicar desvios e entregar números em que a área pode confiar para decidir.
+Acredito que um dashboard só é tão bom quanto a consulta que o alimenta e a pergunta que ele responde. Por isso, meu foco está em entender o problema antes do gráfico e construir análises de ponta a ponta, da extração em **SQL** ao painel no **Power BI**, que sejam claras, consistentes e úteis para quem decide.
 
 ---
 
