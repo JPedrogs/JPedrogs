@@ -24,4 +24,4 @@ Trabalhei mais de 3 anos em operações na RaiaDrogasil, acompanhando **chamados
 
 ### 🎓 Formação e cursos
 
-Engenharia de Software (UNINTER, em andamento) · SQL (Alura, Udemy, DIO) · AWS Cloud Practitioner Essentials · ITIL 4 Foundation
+Engenharia de Software (FIAP, em andamento) · SQL (Alura, Udemy, DIO) · AWS Cloud Practitioner Essentials · ITIL 4 Foundation
