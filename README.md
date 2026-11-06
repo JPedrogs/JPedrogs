@@ -2,11 +2,11 @@
 
 # Olá, eu sou o João Pedro Góes! 👋
 
-### 📊 Da consulta SQL ao dashboard no Power BI.
+### 📊 Encontro nos dados o que o negócio ainda não viu.
 
-Sou **Analista de Dados Júnior** e estudante de Engenharia de Software na FIAP. Trabalho com **SQL** para extrair e cruzar dados, **Python e Pandas** para tratamento e análise exploratória e **Power BI com DAX** para construir painéis claros, prontos para apoiar decisões.
+Sou **Analista de Dados Júnior** e estudante de **Análise e Desenvolvimento de Sistemas**. Uso **SQL** para extrair e cruzar dados, **Python e Pandas** para tratar e investigar, e **Power BI com DAX** para entregar painéis que mostram o problema, a causa e o caminho.
 
-Tenho mais de 3 anos de experiência em operações na RaiaDrogasil, com uso diário do ServiceNow no acompanhamento de **chamados, SLAs e indicadores**. Essa base me dá uma visão prática de como os dados são gerados na operação e de onde costumam surgir inconsistências, o que torna minhas análises mais precisas e confiáveis.
+Venho da operação, onde SLA, prioridade e prazo são cobrados todos os dias. Por isso analiso com foco em resultado: encontrar gargalos, explicar desvios e entregar números em que a área pode confiar para decidir.
 
 ---
 
@@ -22,6 +22,6 @@ Tenho mais de 3 anos de experiência em operações na RaiaDrogasil, com uso di�
   <a href="https://www.linkedin.com/in/jo%C3%A3o-goes-91a8a5201"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
 </p>
 
-### 🎓 Formação e cursos
+### 🎓 Formação
 
-Engenharia de Software (FIAP, em andamento) · SQL (Alura, Udemy, DIO) · AWS Cloud Practitioner Essentials · ITIL 4 Foundation
+Análise e Desenvolvimento de Sistemas · UNINOVE · Cursando, previsão dez/2028
